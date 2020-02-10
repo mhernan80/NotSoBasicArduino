@@ -13,4 +13,4 @@ In the New Ping assignment I ran an ultrasonic sensor using functions from the N
 
 <img src="https://github.com/adent11/Not-So-Basic-Arduino/blob/master/FritzingDiagrams/NewPing()Screenshot.PNG?raw=true" width="450">
 
-Code: https://github.com/mhernan80/Engineering_2.1/blob/master/Intermediate_Arduino/New_Ping/New_Ping.ino
+Code: https://github.com/mhernan80/NotSoBasicArduino/blob/master/New_Ping/New_Ping.ino
